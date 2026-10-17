@@ -1,16 +1,69 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🔐 React Password Generator
 
-Currently, two official plugins are available:
+A simple and responsive Password Generator built with React.js and Tailwind CSS. Generate passwords with customizable length and optional numbers and special characters.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- Generate random passwords
+- Adjustable password length
+- Option to include numbers
+- Option to include special characters
+- Clean and responsive user interface
+- Built using React Hooks
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript
+- Tailwind CSS
+- Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/vikasthakur8815-ui/React-Password-Generator.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd React-Password-Generator
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## 📸 Preview
+
+Add a screenshot of the application here.
+
+## 📚 What I Learned
+
+- Managing state using `useState`
+- Using `useCallback` to memoize functions
+- Handling user input and checkbox events
+- Styling a React application with Tailwind CSS
+
+## 👨‍💻 Author
+
+**Vikas Dangi**
+
+- GitHub: [vikasthakur8815-ui](https://github.com/vikasthakur8815-ui)
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
